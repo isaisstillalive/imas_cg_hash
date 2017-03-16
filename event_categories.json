@@ -1,0 +1,13 @@
+{
+  "10010": { "event_category_id": "10010", "event_category_name": "アイドルサバイバル" },
+  "10020": { "event_category_id": "10020", "event_category_name": "アイドルプロデュース" },
+  "10030": { "event_category_id": "10030", "event_category_name": "アイドルLIVEツアー" },
+  "10040": { "event_category_id": "10040", "event_category_name": "ドリームLIVEフェスティバル" },
+  "10050": { "event_category_id": "10050", "event_category_name": "プロダクションマッチフェスティバル" },
+  "10070": { "event_category_id": "10070", "event_category_name": "アイドルLIVEロワイヤル" },
+  "10080": { "event_category_id": "10080", "event_category_name": "トークバトルショー" },
+  "10090": { "event_category_id": "10090", "event_category_name": "アイドルチャレンジ" },
+  "10100": { "event_category_id": "10100", "event_category_name": "ぷちデレラコレクション" },
+  "10110": { "event_category_id": "10110", "event_category_name": "アイドルバラエティ" },
+  "10060": { "event_category_id": "10060", "event_category_name": "その他" }
+}
