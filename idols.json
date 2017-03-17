@@ -26535,6 +26535,38 @@
         ]
       },
       {
+        "alias_name": "ステイインシェイプ",
+        "alias_name_display": "ｽﾃｲｲﾝｼｪｲﾌﾟ",
+        "id": "2231301",
+        "hash": "b9ffe5b8b3214774e10fe813a01f4e1a",
+        "profile": {
+          "height": "165",
+          "weight": "48",
+          "bust": "92",
+          "waist": "58",
+          "hip": "85"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "ステイインシェイプ",
+        "alias_name_display": "ｽﾃｲｲﾝｼｪｲﾌﾟ",
+        "id": "2331302",
+        "hash": "1f579c998c02a9776400a9f3d43c26ab",
+        "profile": {
+          "height": "165",
+          "weight": "48",
+          "bust": "92",
+          "waist": "58",
+          "hip": "85"
+        },
+        "event": [
+
+        ]
+      },
+      {
         "alias_name": "セクシービューティー",
         "alias_name_display": "ｾｸｼｰﾋﾞｭｰﾃｨｰ",
         "id": "2410101",
@@ -75490,6 +75522,38 @@
             "event_id": 723,
             "event_name": "水着DEドリームLIVEフェスティバル"
           }
+        ]
+      },
+      {
+        "alias_name": "チャキチャキ☆晴れ娘",
+        "alias_name_display": "ﾁｬｷﾁｬｷ☆晴れ娘",
+        "id": "3438901",
+        "hash": "eea58dceca065bf2321c38cb03194094",
+        "profile": {
+          "height": "145",
+          "weight": "39",
+          "bust": "73",
+          "waist": "53",
+          "hip": "75"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "チャキチャキ☆晴れ娘",
+        "alias_name_display": "ﾁｬｷﾁｬｷ☆晴れ娘",
+        "id": "3538902",
+        "hash": "b55c0b1bb4d08a833d7ae0fbbd248731",
+        "profile": {
+          "height": "145",
+          "weight": "39",
+          "bust": "73",
+          "waist": "53",
+          "hip": "75"
+        },
+        "event": [
+
         ]
       }
     ]
