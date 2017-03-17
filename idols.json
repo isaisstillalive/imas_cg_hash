@@ -50047,6 +50047,38 @@
         ]
       },
       {
+        "alias_name": "イノベーションマインド",
+        "alias_name_display": "ｲﾉﾍﾞｰｼｮﾝﾏｲﾝﾄﾞ",
+        "id": "2231201",
+        "hash": "967bde64d2f177461d1fba733587bf71",
+        "profile": {
+          "height": "164",
+          "weight": "45",
+          "bust": "83",
+          "waist": "55",
+          "hip": "82"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "イノベーションマインド",
+        "alias_name_display": "ｲﾉﾍﾞｰｼｮﾝﾏｲﾝﾄﾞ",
+        "id": "2331202",
+        "hash": "c0dedc58fa9d81976f14db357913cf88",
+        "profile": {
+          "height": "164",
+          "weight": "45",
+          "bust": "83",
+          "waist": "55",
+          "hip": "82"
+        },
+        "event": [
+
+        ]
+      },
+      {
         "alias_name": "ランウェイのカリスマ",
         "alias_name_display": "ﾗﾝｳｪｲのｶﾘｽﾏ",
         "id": "2422601",
