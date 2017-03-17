@@ -9834,6 +9834,55 @@
       }
     ]
   },
+  "822": {
+    "event_id": 822,
+    "event_category_id": "10070",
+    "event_name": "第22回アイドルLIVEロワイヤル",
+    "idols": [
+      {
+        "idol_id": 33,
+        "idol_name": "西園寺琴歌",
+        "aliases": [
+          {
+            "id": "1439001",
+            "alias_name": "セレブリティロード"
+          },
+          {
+            "id": "1539002",
+            "alias_name": "セレブリティロード"
+          }
+        ]
+      },
+      {
+        "idol_id": 87,
+        "idol_name": "古澤頼子",
+        "aliases": [
+          {
+            "id": "2231101",
+            "alias_name": "ロワイヤルスタイルND"
+          },
+          {
+            "id": "2331102",
+            "alias_name": "ロワイヤルスタイルND"
+          }
+        ]
+      },
+      {
+        "idol_id": 196,
+        "idol_name": "冴島清美",
+        "aliases": [
+          {
+            "id": "3438601",
+            "alias_name": "超☆風紀・ロワイヤル"
+          },
+          {
+            "id": "3538602",
+            "alias_name": "超☆風紀・ロワイヤル"
+          }
+        ]
+      }
+    ]
+  },
   "1001": {
     "event_id": 1001,
     "event_category_id": "10040",

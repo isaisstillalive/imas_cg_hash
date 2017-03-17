@@ -13345,6 +13345,44 @@
             "event_name": "水着DEドリームLIVEフェスティバル"
           }
         ]
+      },
+      {
+        "alias_name": "セレブリティロード",
+        "alias_name_display": "ｾﾚﾌﾞﾘﾃｨﾛｰﾄﾞ",
+        "id": "1439001",
+        "hash": "4432b1bb442fe24e22c44557b583eab5",
+        "profile": {
+          "height": "156",
+          "weight": "46",
+          "bust": "87",
+          "waist": "57",
+          "hip": "85"
+        },
+        "event": [
+          {
+            "event_id": 822,
+            "event_name": "第22回アイドルLIVEロワイヤル"
+          }
+        ]
+      },
+      {
+        "alias_name": "セレブリティロード",
+        "alias_name_display": "ｾﾚﾌﾞﾘﾃｨﾛｰﾄﾞ",
+        "id": "1539002",
+        "hash": "37f641a6738f8d5735db957a37b781ae",
+        "profile": {
+          "height": "156",
+          "weight": "46",
+          "bust": "87",
+          "waist": "57",
+          "hip": "85"
+        },
+        "event": [
+          {
+            "event_id": 822,
+            "event_name": "第22回アイドルLIVEロワイヤル"
+          }
+        ]
       }
     ]
   },
@@ -33928,7 +33966,10 @@
           "hip": "83"
         },
         "event": [
-
+          {
+            "event_id": 822,
+            "event_name": "第22回アイドルLIVEロワイヤル"
+          }
         ]
       },
       {
@@ -33944,7 +33985,10 @@
           "hip": "83"
         },
         "event": [
-
+          {
+            "event_id": 822,
+            "event_name": "第22回アイドルLIVEロワイヤル"
+          }
         ]
       },
       {
@@ -75843,7 +75887,10 @@
           "hip": "78"
         },
         "event": [
-
+          {
+            "event_id": 822,
+            "event_name": "第22回アイドルLIVEロワイヤル"
+          }
         ]
       },
       {
@@ -75859,7 +75906,10 @@
           "hip": "78"
         },
         "event": [
-
+          {
+            "event_id": 822,
+            "event_name": "第22回アイドルLIVEロワイヤル"
+          }
         ]
       }
     ]
