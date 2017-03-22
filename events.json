@@ -1432,6 +1432,41 @@
       }
     ]
   },
+  "034": {
+    "event_id": "034",
+    "event_category_id": "10050",
+    "event_name": "第34回プロダクションマッチフェスティバル",
+    "idols": [
+      {
+        "idol_id": 131,
+        "idol_name": "桐生つかさ",
+        "aliases": [
+          {
+            "id": "2231201",
+            "alias_name": "イノベーションマインド"
+          },
+          {
+            "id": "2331202",
+            "alias_name": "イノベーションマインド"
+          }
+        ]
+      },
+      {
+        "idol_id": 171,
+        "idol_name": "諸星きらり",
+        "aliases": [
+          {
+            "id": "3438801",
+            "alias_name": "ろまんすジェット"
+          },
+          {
+            "id": "3538802",
+            "alias_name": "ろまんすジェット"
+          }
+        ]
+      }
+    ]
+  },
   "101": {
     "event_id": 101,
     "event_category_id": "10060",
