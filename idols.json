@@ -18663,6 +18663,38 @@
         ]
       },
       {
+        "alias_name": "ふんわりパピヨン",
+        "alias_name_display": "ふんわりﾊﾟﾋﾟﾖﾝ",
+        "id": "1232501",
+        "hash": "c5f8a51fd468b2d67fbee35744959e59",
+        "profile": {
+          "height": "162",
+          "weight": "45",
+          "bust": "91",
+          "waist": "56",
+          "hip": "86"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "ふんわりパピヨン",
+        "alias_name_display": "ふんわりﾊﾟﾋﾟﾖﾝ",
+        "id": "1332502",
+        "hash": "9948c2cc9042b6db538973772ffd6bee",
+        "profile": {
+          "height": "162",
+          "weight": "45",
+          "bust": "91",
+          "waist": "56",
+          "hip": "86"
+        },
+        "event": [
+
+        ]
+      },
+      {
         "alias_name": "スプラッシュボディ",
         "alias_name_display": "ｽﾌﾟﾗｯｼｭﾎﾞﾃﾞｨ",
         "id": "1402101",
@@ -49999,6 +50031,38 @@
             "event_id": 1707,
             "event_name": "アイドルプロデュース アロハ!常夏の楽園"
           }
+        ]
+      },
+      {
+        "alias_name": "碧落のリベレイター",
+        "alias_name_display": "碧落のﾘﾍﾞﾚｲﾀｰ",
+        "id": "2438901",
+        "hash": "f069c36e4de862aadd81791d55f1f7d8",
+        "profile": {
+          "height": "154",
+          "weight": "42",
+          "bust": "75",
+          "waist": "55",
+          "hip": "78"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "碧落のリベレイター",
+        "alias_name_display": "碧落のﾘﾍﾞﾚｲﾀｰ",
+        "id": "2538902",
+        "hash": "3f93733e01fed8506d57f0c5894586f6",
+        "profile": {
+          "height": "154",
+          "weight": "42",
+          "bust": "75",
+          "waist": "55",
+          "hip": "78"
+        },
+        "event": [
+
         ]
       }
     ]
