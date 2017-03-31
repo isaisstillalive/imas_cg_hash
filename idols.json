@@ -3303,6 +3303,38 @@
         ]
       },
       {
+        "alias_name": "ワイルドフレンズ",
+        "alias_name_display": "ﾜｲﾙﾄﾞﾌﾚﾝｽﾞ",
+        "id": "1232601",
+        "hash": "16d9293bf83ba6bf24a6852f8d34c0a7",
+        "profile": {
+          "height": "153",
+          "weight": "51",
+          "bust": "90",
+          "waist": "63",
+          "hip": "89"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "ワイルドフレンズ",
+        "alias_name_display": "ﾜｲﾙﾄﾞﾌﾚﾝｽﾞ",
+        "id": "1332602",
+        "hash": "82aa4935c95e87e5a62185d63a42dd2c",
+        "profile": {
+          "height": "153",
+          "weight": "51",
+          "bust": "90",
+          "waist": "63",
+          "hip": "89"
+        },
+        "event": [
+
+        ]
+      },
+      {
         "alias_name": "ふわふわスマイル",
         "alias_name_display": "ふわふわｽﾏｲﾙ",
         "id": "1401301",
@@ -19242,6 +19274,38 @@
             "event_name": "アイドルプロデュース きらめくオーロラ紀行"
           }
         ]
+      },
+      {
+        "alias_name": "自称・愛され系",
+        "alias_name_display": "自称･愛され系",
+        "id": "1439501",
+        "hash": "0a91c9d32bc4dc8c10e2ec537e6403b4",
+        "profile": {
+          "height": "142",
+          "weight": "37",
+          "bust": "74",
+          "waist": "52",
+          "hip": "75"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "自称・愛され系",
+        "alias_name_display": "自称･愛され系",
+        "id": "1539502",
+        "hash": "6510a11da53b691ab9031a461560116d",
+        "profile": {
+          "height": "142",
+          "weight": "37",
+          "bust": "74",
+          "waist": "52",
+          "hip": "75"
+        },
+        "event": [
+
+        ]
       }
     ]
   },
@@ -34689,6 +34753,38 @@
         "event": [
 
         ]
+      },
+      {
+        "alias_name": "賢者の翼",
+        "alias_name_display": "賢者の翼",
+        "id": "2439101",
+        "hash": "ba20403f63fe0861d9a8a47126a91955",
+        "profile": {
+          "height": "141",
+          "weight": "34",
+          "bust": "68",
+          "waist": "52",
+          "hip": "67"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "賢者の翼",
+        "alias_name_display": "賢者の翼",
+        "id": "2539102",
+        "hash": "abfa3a0acdc184e3339b139c308eef21",
+        "profile": {
+          "height": "141",
+          "weight": "34",
+          "bust": "68",
+          "waist": "52",
+          "hip": "67"
+        },
+        "event": [
+
+        ]
       }
     ]
   },
@@ -35256,6 +35352,38 @@
             "event_id": 818,
             "event_name": "アイドルLIVEロワイヤル 雨の日SP"
           }
+        ]
+      },
+      {
+        "alias_name": "ワイルドフレンズ",
+        "alias_name_display": "ﾜｲﾙﾄﾞﾌﾚﾝｽﾞ",
+        "id": "2231501",
+        "hash": "85b14867dbae15eda96607c230a961f1",
+        "profile": {
+          "height": "160",
+          "weight": "45",
+          "bust": "85",
+          "waist": "56",
+          "hip": "83"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "ワイルドフレンズ",
+        "alias_name_display": "ﾜｲﾙﾄﾞﾌﾚﾝｽﾞ",
+        "id": "2331502",
+        "hash": "8c23ba46ce84b6f62c65bfc36b35bae3",
+        "profile": {
+          "height": "160",
+          "weight": "45",
+          "bust": "85",
+          "waist": "56",
+          "hip": "83"
+        },
+        "event": [
+
         ]
       },
       {
@@ -44219,6 +44347,38 @@
         ]
       },
       {
+        "alias_name": "ワイルドフレンズ",
+        "alias_name_display": "ﾜｲﾙﾄﾞﾌﾚﾝｽﾞ",
+        "id": "2231601",
+        "hash": "ea24a69654f849a122461782a256f4cc",
+        "profile": {
+          "height": "152",
+          "weight": "42",
+          "bust": "78",
+          "waist": "57",
+          "hip": "80"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "ワイルドフレンズ",
+        "alias_name_display": "ﾜｲﾙﾄﾞﾌﾚﾝｽﾞ",
+        "id": "2331602",
+        "hash": "70a62d93285f5c7e10b9e127db9bf8a0",
+        "profile": {
+          "height": "152",
+          "weight": "42",
+          "bust": "78",
+          "waist": "57",
+          "hip": "80"
+        },
+        "event": [
+
+        ]
+      },
+      {
         "alias_name": "ロワイヤルガール",
         "alias_name_display": "ﾛﾜｲﾔﾙｶﾞｰﾙ",
         "id": "2409401",
@@ -51899,6 +52059,38 @@
         "event": [
 
         ]
+      },
+      {
+        "alias_name": "ちいさなともだち",
+        "alias_name_display": "ちいさなともだち",
+        "id": "3439301",
+        "hash": "55ef16cfd44a6fdfb3709337f27e595f",
+        "profile": {
+          "height": "155",
+          "weight": "42",
+          "bust": "74",
+          "waist": "60",
+          "hip": "79"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "ちいさなともだち",
+        "alias_name_display": "ちいさなともだち",
+        "id": "3539302",
+        "hash": "4d91dd57c123958c50421bb04076c240",
+        "profile": {
+          "height": "155",
+          "weight": "42",
+          "bust": "74",
+          "waist": "60",
+          "hip": "79"
+        },
+        "event": [
+
+        ]
       }
     ]
   },
@@ -54853,6 +55045,38 @@
             "event_id": 724,
             "event_name": "第24回ドリームLIVEフェスティバル"
           }
+        ]
+      },
+      {
+        "alias_name": "ワイルドフレンズ",
+        "alias_name_display": "ﾜｲﾙﾄﾞﾌﾚﾝｽﾞ",
+        "id": "3233701",
+        "hash": "f04dac9c82d71a897241138a4f42caec",
+        "profile": {
+          "height": "150",
+          "weight": "41",
+          "bust": "81",
+          "waist": "56",
+          "hip": "80"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "ワイルドフレンズ",
+        "alias_name_display": "ﾜｲﾙﾄﾞﾌﾚﾝｽﾞ",
+        "id": "3333702",
+        "hash": "4d8997fc3f94ac70311fa9f92408655a",
+        "profile": {
+          "height": "150",
+          "weight": "41",
+          "bust": "81",
+          "waist": "56",
+          "hip": "80"
+        },
+        "event": [
+
         ]
       },
       {
