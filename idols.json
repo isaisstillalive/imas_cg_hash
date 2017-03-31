@@ -30505,6 +30505,38 @@
             "event_name": "アイドルプロデュース 北の大地と夜さりの祭"
           }
         ]
+      },
+      {
+        "alias_name": "バイオレットディシジョン",
+        "alias_name_display": "ﾊﾞｲｵﾚｯﾄﾃﾞｨｼｼﾞｮﾝ",
+        "id": "2438801",
+        "hash": "ce6cc64940b1610edfdd5e8486bd0de2",
+        "profile": {
+          "height": "152",
+          "weight": "41",
+          "bust": "80",
+          "waist": "55",
+          "hip": "81"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "バイオレットディシジョン",
+        "alias_name_display": "ﾊﾞｲｵﾚｯﾄﾃﾞｨｼｼﾞｮﾝ",
+        "id": "2538802",
+        "hash": "4a688e97246cf40a0e8850db9199e694",
+        "profile": {
+          "height": "152",
+          "weight": "41",
+          "bust": "80",
+          "waist": "55",
+          "hip": "81"
+        },
+        "event": [
+
+        ]
       }
     ]
   },
