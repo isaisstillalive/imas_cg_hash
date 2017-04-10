@@ -8424,6 +8424,69 @@
       }
     ]
   },
+  "728": {
+    "event_id": 728,
+    "event_category_id": "10040",
+    "event_name": "ドリームLIVEフェスティバル スプリングSP",
+    "idols": [
+      {
+        "idol_id": 47,
+        "idol_name": "井村雪菜",
+        "aliases": [
+          {
+            "id": "1439401",
+            "alias_name": "花畑マキアージュ"
+          },
+          {
+            "id": "1539402",
+            "alias_name": "花畑マキアージュ"
+          }
+        ]
+      },
+      {
+        "idol_id": 119,
+        "idol_name": "藤居朋",
+        "aliases": [
+          {
+            "id": "2439001",
+            "alias_name": "ピックアップフォーチュン"
+          },
+          {
+            "id": "2539002",
+            "alias_name": "ピックアップフォーチュン"
+          }
+        ]
+      },
+      {
+        "idol_id": 183,
+        "idol_name": "市原仁奈",
+        "aliases": [
+          {
+            "id": "3439201",
+            "alias_name": "はるかぜぶんぶん"
+          },
+          {
+            "id": "3539202",
+            "alias_name": "はるかぜぶんぶん"
+          }
+        ]
+      },
+      {
+        "idol_id": 194,
+        "idol_name": "土屋亜子",
+        "aliases": [
+          {
+            "id": "3233601",
+            "alias_name": "サルファージョリー"
+          },
+          {
+            "id": "3333602",
+            "alias_name": "サルファージョリー"
+          }
+        ]
+      }
+    ]
+  },
   "801": {
     "event_id": 801,
     "event_category_id": "10070",
