@@ -25639,6 +25639,38 @@
             "event_name": "第3回ぷちデレラコレクション"
           }
         ]
+      },
+      {
+        "alias_name": "機巧の匠",
+        "alias_name_display": "機巧の匠",
+        "id": "1439601",
+        "hash": "0cf8b99a662d263b1019cfdaca236a25",
+        "profile": {
+          "height": "148",
+          "weight": "39",
+          "bust": "75",
+          "waist": "53",
+          "hip": "74"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "機巧の匠",
+        "alias_name_display": "機巧の匠",
+        "id": "1539602",
+        "hash": "f14270b8f9920a77b665767587d06b48",
+        "profile": {
+          "height": "148",
+          "weight": "39",
+          "bust": "75",
+          "waist": "53",
+          "hip": "74"
+        },
+        "event": [
+
+        ]
       }
     ]
   },
@@ -64716,6 +64748,22 @@
         ]
       },
       {
+        "alias_name": "ハイカラガンナー",
+        "alias_name_display": "ﾊｲｶﾗｶﾞﾝﾅｰ",
+        "id": "3333802",
+        "hash": "dec1007c6dc06d01e61a7bf2ff65e44b",
+        "profile": {
+          "height": "168",
+          "weight": "50",
+          "bust": "92",
+          "waist": "58",
+          "hip": "85"
+        },
+        "event": [
+
+        ]
+      },
+      {
         "alias_name": "セクシーディーヴァ",
         "alias_name_display": "ｾｸｼｰﾃﾞｨｰｳﾞｧ",
         "id": "3406401",
@@ -77792,6 +77840,38 @@
         ]
       },
       {
+        "alias_name": "夜桜奇譚",
+        "alias_name_display": "夜桜奇譚",
+        "id": "1232701",
+        "hash": "c3dc039dbb8e4e3b2ea2ce70dcc0279a",
+        "profile": {
+          "height": "149",
+          "weight": "40",
+          "bust": "78",
+          "waist": "55",
+          "hip": "79"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "夜桜奇譚",
+        "alias_name_display": "夜桜奇譚",
+        "id": "1332702",
+        "hash": "acb21dca7cfc523e0a041f32c92f0c8e",
+        "profile": {
+          "height": "149",
+          "weight": "40",
+          "bust": "78",
+          "waist": "55",
+          "hip": "79"
+        },
+        "event": [
+
+        ]
+      },
+      {
         "alias_name": "聖夜のキセキ",
         "alias_name_display": "聖夜のｷｾｷ",
         "id": "1437201",
@@ -77911,6 +77991,38 @@
             "event_name": "ディアリースターハート ～ラブキュンバレンタイン～"
           }
         ]
+      },
+      {
+        "alias_name": "夜桜奇譚",
+        "alias_name_display": "夜桜奇譚",
+        "id": "2439301",
+        "hash": "7ad6bd146fe2c0a9d7f4d1d70e85339a",
+        "profile": {
+          "height": "152",
+          "weight": "36",
+          "bust": "82",
+          "waist": "53",
+          "hip": "76"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "夜桜奇譚",
+        "alias_name_display": "夜桜奇譚",
+        "id": "2539302",
+        "hash": "2c578bcb320f60bfd692e097bff03291",
+        "profile": {
+          "height": "152",
+          "weight": "36",
+          "bust": "82",
+          "waist": "53",
+          "hip": "76"
+        },
+        "event": [
+
+        ]
       }
     ]
   },
@@ -77955,6 +78067,38 @@
             "event_id": 1905,
             "event_name": "ディアリースターナイト ～聖夜のキセキ～"
           }
+        ]
+      },
+      {
+        "alias_name": "夜桜奇譚",
+        "alias_name_display": "夜桜奇譚",
+        "id": "3233901",
+        "hash": "8528eab7689a81e088cc8b537a7308b3",
+        "profile": {
+          "height": "162",
+          "weight": "54",
+          "bust": "80",
+          "waist": "59",
+          "hip": "80"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "夜桜奇譚",
+        "alias_name_display": "夜桜奇譚",
+        "id": "3333902",
+        "hash": "9ec1db535f6c5277ab50ffd22d33953c",
+        "profile": {
+          "height": "162",
+          "weight": "54",
+          "bust": "80",
+          "waist": "59",
+          "hip": "80"
+        },
+        "event": [
+
         ]
       },
       {
