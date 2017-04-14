@@ -15454,6 +15454,38 @@
             "event_name": "第9回ぷちデレラコレクション"
           }
         ]
+      },
+      {
+        "alias_name": "ルックアットミー",
+        "alias_name_display": "ﾙｯｸｱｯﾄﾐｰ",
+        "id": "1439701",
+        "hash": "27d9297f2fa9b6bee8a4e1ecdf8f0a49",
+        "profile": {
+          "height": "153",
+          "weight": "44",
+          "bust": "86",
+          "waist": "56",
+          "hip": "82"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "ルックアットミー",
+        "alias_name_display": "ﾙｯｸｱｯﾄﾐｰ",
+        "id": "1539702",
+        "hash": "ea6ea7bc7bb994ee3f40bf04f6126ec8",
+        "profile": {
+          "height": "153",
+          "weight": "44",
+          "bust": "86",
+          "waist": "56",
+          "hip": "82"
+        },
+        "event": [
+
+        ]
       }
     ]
   },
@@ -60097,6 +60129,38 @@
             "event_id": 1705,
             "event_name": "アイドルプロデュース きらめくオーロラ紀行"
           }
+        ]
+      },
+      {
+        "alias_name": "スライリーボス",
+        "alias_name_display": "ｽﾗｲﾘｰﾎﾞｽ",
+        "id": "3234101",
+        "hash": "1450cb40e9291f7b9da2581ab121abd3",
+        "profile": {
+          "height": "148",
+          "weight": "41",
+          "bust": "75",
+          "waist": "50",
+          "hip": "77"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "スライリーボス",
+        "alias_name_display": "ｽﾗｲﾘｰﾎﾞｽ",
+        "id": "3334102",
+        "hash": "037fba15808ccc155155baa5294fc88b",
+        "profile": {
+          "height": "148",
+          "weight": "41",
+          "bust": "75",
+          "waist": "50",
+          "hip": "77"
+        },
+        "event": [
+
         ]
       },
       {
