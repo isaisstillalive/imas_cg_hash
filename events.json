@@ -14477,5 +14477,92 @@
         ]
       }
     ]
+  },
+  "1907": {
+    "event_id": 1907,
+    "event_category_id": "10030",
+    "event_name": "ディアリースタークエスト ～夜桜奇譚～",
+    "idols": [
+      {
+        "idol_id": 66,
+        "idol_name": "池袋晶葉",
+        "aliases": [
+          {
+            "id": "1439601",
+            "alias_name": "機巧の匠"
+          },
+          {
+            "id": "1539602",
+            "alias_name": "機巧の匠"
+          }
+        ]
+      },
+      {
+        "idol_id": 120,
+        "idol_name": "塩見周子",
+        "aliases": [
+          {
+            "id": "2439201",
+            "alias_name": "花明り夜風"
+          },
+          {
+            "id": "2539202",
+            "alias_name": "花明り夜風"
+          }
+        ]
+      },
+      {
+        "idol_id": 165,
+        "idol_name": "浜川愛結奈",
+        "aliases": [
+          {
+            "id": "3333802",
+            "alias_name": "ハイカラガンナー"
+          }
+        ]
+      },
+      {
+        "idol_id": 201,
+        "idol_name": "日高愛",
+        "aliases": [
+          {
+            "id": "1232701",
+            "alias_name": "夜桜奇譚"
+          },
+          {
+            "id": "1332702",
+            "alias_name": "夜桜奇譚"
+          }
+        ]
+      },
+      {
+        "idol_id": 202,
+        "idol_name": "水谷絵理",
+        "aliases": [
+          {
+            "id": "2439301",
+            "alias_name": "夜桜奇譚"
+          },
+          {
+            "id": "2539302",
+            "alias_name": "夜桜奇譚"
+          }
+        ]
+      },
+      {
+        "idol_id": 203,
+        "idol_name": "秋月涼",
+        "aliases": [
+          {
+            "id": "3233901",
+            "alias_name": "夜桜奇譚"
+          },
+          {
+            "id": "3333902",
+            "alias_name": "夜桜奇譚"
+          }
+        ]
+      }
+    ]
   }
 }
