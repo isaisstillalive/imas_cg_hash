@@ -12443,6 +12443,41 @@
       }
     ]
   },
+  "1412": {
+    "event_id": 1412,
+    "event_category_id": "10100",
+    "event_name": "第12回ぷちデレラコレクション",
+    "idols": [
+      {
+        "idol_id": 72,
+        "idol_name": "相川千夏",
+        "aliases": [
+          {
+            "id": "2439501",
+            "alias_name": "モードリーブル"
+          },
+          {
+            "id": "2539502",
+            "alias_name": "モードリーブル"
+          }
+        ]
+      },
+      {
+        "idol_id": 186,
+        "idol_name": "北川真尋",
+        "aliases": [
+          {
+            "id": "3439401",
+            "alias_name": "ペッピーウォーキン☆"
+          },
+          {
+            "id": "3539402",
+            "alias_name": "ペッピーウォーキン☆"
+          }
+        ]
+      }
+    ]
+  },
   "1501": {
     "event_id": 1501,
     "event_category_id": "10080",

@@ -27992,6 +27992,44 @@
             "event_name": "ドリームLIVEフェスティバル 節分SP"
           }
         ]
+      },
+      {
+        "alias_name": "モードリーブル",
+        "alias_name_display": "ﾓｰﾄﾞﾘｰﾌﾞﾙ",
+        "id": "2439501",
+        "hash": "b839d7f458db037366fcd9f57ea3137e",
+        "profile": {
+          "height": "161",
+          "weight": "43",
+          "bust": "82",
+          "waist": "56",
+          "hip": "85"
+        },
+        "event": [
+          {
+            "event_id": 1412,
+            "event_name": "第12回ぷちデレラコレクション"
+          }
+        ]
+      },
+      {
+        "alias_name": "モードリーブル",
+        "alias_name_display": "ﾓｰﾄﾞﾘｰﾌﾞﾙ",
+        "id": "2539502",
+        "hash": "4028037887d8707827e2a749bb925d5d",
+        "profile": {
+          "height": "161",
+          "weight": "43",
+          "bust": "82",
+          "waist": "56",
+          "hip": "85"
+        },
+        "event": [
+          {
+            "event_id": 1412,
+            "event_name": "第12回ぷちデレラコレクション"
+          }
+        ]
       }
     ]
   },
@@ -72580,6 +72618,44 @@
           {
             "event_id": 820,
             "event_name": "第20回アイドルLIVEロワイヤル"
+          }
+        ]
+      },
+      {
+        "alias_name": "ペッピーウォーキン☆",
+        "alias_name_display": "ﾍﾟｯﾋﾟｰｳｫｰｷﾝ☆",
+        "id": "3439401",
+        "hash": "152d472f4e2ac23df690fde0685bb3f6",
+        "profile": {
+          "height": "158",
+          "weight": "43",
+          "bust": "75",
+          "waist": "57",
+          "hip": "79"
+        },
+        "event": [
+          {
+            "event_id": 1412,
+            "event_name": "第12回ぷちデレラコレクション"
+          }
+        ]
+      },
+      {
+        "alias_name": "ペッピーウォーキン☆",
+        "alias_name_display": "ﾍﾟｯﾋﾟｰｳｫｰｷﾝ☆",
+        "id": "3539402",
+        "hash": "b24f3818f1e1073ea376f64f62004d15",
+        "profile": {
+          "height": "158",
+          "weight": "43",
+          "bust": "75",
+          "waist": "57",
+          "hip": "79"
+        },
+        "event": [
+          {
+            "event_id": 1412,
+            "event_name": "第12回ぷちデレラコレクション"
           }
         ]
       }
