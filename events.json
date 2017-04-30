@@ -13115,6 +13115,69 @@
       }
     ]
   },
+  "1512": {
+    "event_id": 1512,
+    "event_category_id": "10080",
+    "event_name": "第12回チーム対抗トークバトルショー",
+    "idols": [
+      {
+        "idol_id": 60,
+        "idol_name": "村松さくら",
+        "aliases": [
+          {
+            "id": "1439801",
+            "alias_name": "ピンキーチアー"
+          },
+          {
+            "id": "1539802",
+            "alias_name": "ピンキーチアー"
+          }
+        ]
+      },
+      {
+        "idol_id": 76,
+        "idol_name": "荒木比奈",
+        "aliases": [
+          {
+            "id": "2231701",
+            "alias_name": "T.B.チアーズ"
+          },
+          {
+            "id": "2331702",
+            "alias_name": "T.B.チアーズ"
+          }
+        ]
+      },
+      {
+        "idol_id": 81,
+        "idol_name": "三船美優",
+        "aliases": [
+          {
+            "id": "2439601",
+            "alias_name": "語らいの明眸"
+          },
+          {
+            "id": "2539602",
+            "alias_name": "語らいの明眸"
+          }
+        ]
+      },
+      {
+        "idol_id": 136,
+        "idol_name": "並木芽衣子",
+        "aliases": [
+          {
+            "id": "3439601",
+            "alias_name": "トラベルチアー"
+          },
+          {
+            "id": "3539602",
+            "alias_name": "トラベルチアー"
+          }
+        ]
+      }
+    ]
+  },
   "1701": {
     "event_id": 1701,
     "event_category_id": "10020",

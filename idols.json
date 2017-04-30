@@ -23340,6 +23340,44 @@
             "event_name": "アイドルLIVEロワイヤル お月見SP"
           }
         ]
+      },
+      {
+        "alias_name": "ピンキーチアー",
+        "alias_name_display": "ﾋﾟﾝｷｰﾁｱｰ",
+        "id": "1439801",
+        "hash": "25d4b3908e0cf5edea1c5c3b7dbdc238",
+        "profile": {
+          "height": "145",
+          "weight": "38",
+          "bust": "75",
+          "waist": "55",
+          "hip": "77"
+        },
+        "event": [
+          {
+            "event_id": 1512,
+            "event_name": "第12回チーム対抗トークバトルショー"
+          }
+        ]
+      },
+      {
+        "alias_name": "ピンキーチアー",
+        "alias_name_display": "ﾋﾟﾝｷｰﾁｱｰ",
+        "id": "1539802",
+        "hash": "f3a647752b0e6c8f4d4938a2a5bbd308",
+        "profile": {
+          "height": "145",
+          "weight": "38",
+          "bust": "75",
+          "waist": "55",
+          "hip": "77"
+        },
+        "event": [
+          {
+            "event_id": 1512,
+            "event_name": "第12回チーム対抗トークバトルショー"
+          }
+        ]
       }
     ]
   },
@@ -29482,6 +29520,44 @@
         ]
       },
       {
+        "alias_name": "T.B.チアーズ",
+        "alias_name_display": "T.B.ﾁｱｰｽﾞ",
+        "id": "2231701",
+        "hash": "cf11785b7891fb42a7d5b75fd7b33723",
+        "profile": {
+          "height": "157",
+          "weight": "42",
+          "bust": "83",
+          "waist": "56",
+          "hip": "82"
+        },
+        "event": [
+          {
+            "event_id": 1512,
+            "event_name": "第12回チーム対抗トークバトルショー"
+          }
+        ]
+      },
+      {
+        "alias_name": "T.B.チアーズ",
+        "alias_name_display": "T.B.ﾁｱｰｽﾞ",
+        "id": "2331702",
+        "hash": "0c2ecb19bd0d360cd0e6b00e36b4348d",
+        "profile": {
+          "height": "157",
+          "weight": "42",
+          "bust": "83",
+          "waist": "56",
+          "hip": "82"
+        },
+        "event": [
+          {
+            "event_id": 1512,
+            "event_name": "第12回チーム対抗トークバトルショー"
+          }
+        ]
+      },
+      {
         "alias_name": "ブルーフロートパーティー",
         "alias_name_display": "ﾌﾞﾙｰﾌﾛｰﾄﾊﾟｰﾃｨｰ",
         "id": "2408301",
@@ -32204,6 +32280,44 @@
         },
         "event": [
 
+        ]
+      },
+      {
+        "alias_name": "語らいの明眸",
+        "alias_name_display": "語らいの明眸",
+        "id": "2439601",
+        "hash": "29fd6073c0fd3f5e6e6ed5c7f034d9d3",
+        "profile": {
+          "height": "165",
+          "weight": "46",
+          "bust": "85",
+          "waist": "60",
+          "hip": "85"
+        },
+        "event": [
+          {
+            "event_id": 1512,
+            "event_name": "第12回チーム対抗トークバトルショー"
+          }
+        ]
+      },
+      {
+        "alias_name": "語らいの明眸",
+        "alias_name_display": "語らいの明眸",
+        "id": "2539602",
+        "hash": "be6c919489145ab6fcf4735fccad0f5c",
+        "profile": {
+          "height": "165",
+          "weight": "46",
+          "bust": "85",
+          "waist": "60",
+          "hip": "85"
+        },
+        "event": [
+          {
+            "event_id": 1512,
+            "event_name": "第12回チーム対抗トークバトルショー"
+          }
         ]
       }
     ]
@@ -52872,6 +52986,44 @@
           {
             "event_id": 1213,
             "event_name": "目指せお菓子なハロウィン アイドルチャレンジ"
+          }
+        ]
+      },
+      {
+        "alias_name": "トラベルチアー",
+        "alias_name_display": "ﾄﾗﾍﾞﾙﾁｱｰ",
+        "id": "3439601",
+        "hash": "01169e17d4d7c870bd60b0454d091706",
+        "profile": {
+          "height": "160",
+          "weight": "43",
+          "bust": "80",
+          "waist": "56",
+          "hip": "82"
+        },
+        "event": [
+          {
+            "event_id": 1512,
+            "event_name": "第12回チーム対抗トークバトルショー"
+          }
+        ]
+      },
+      {
+        "alias_name": "トラベルチアー",
+        "alias_name_display": "ﾄﾗﾍﾞﾙﾁｱｰ",
+        "id": "3539602",
+        "hash": "9a07422c4498c97ae7b7a9d9117fe9fd",
+        "profile": {
+          "height": "160",
+          "weight": "43",
+          "bust": "80",
+          "waist": "56",
+          "hip": "82"
+        },
+        "event": [
+          {
+            "event_id": 1512,
+            "event_name": "第12回チーム対抗トークバトルショー"
           }
         ]
       }
