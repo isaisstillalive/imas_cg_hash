@@ -10044,6 +10044,55 @@
       }
     ]
   },
+  "823": {
+    "event_id": 823,
+    "event_category_id": "10070",
+    "event_name": "第23回アイドルLIVEロワイヤル",
+    "idols": [
+      {
+        "idol_id": 4,
+        "idol_name": "福山舞",
+        "aliases": [
+          {
+            "id": "1233201",
+            "alias_name": "ロワイヤルスタイルND"
+          },
+          {
+            "id": "1333202",
+            "alias_name": "ロワイヤルスタイルND"
+          }
+        ]
+      },
+      {
+        "idol_id": 71,
+        "idol_name": "高橋礼子",
+        "aliases": [
+          {
+            "id": "2439901",
+            "alias_name": "アモラス・ロワイヤル"
+          },
+          {
+            "id": "2539902",
+            "alias_name": "アモラス・ロワイヤル"
+          }
+        ]
+      },
+      {
+        "idol_id": 187,
+        "idol_name": "メアリー・コクラン",
+        "aliases": [
+          {
+            "id": "3440001",
+            "alias_name": "プリティブロンド"
+          },
+          {
+            "id": "3540002",
+            "alias_name": "プリティブロンド"
+          }
+        ]
+      }
+    ]
+  },
   "1001": {
     "event_id": 1001,
     "event_category_id": "10040",

@@ -1736,6 +1736,44 @@
         ]
       },
       {
+        "alias_name": "ロワイヤルスタイルND",
+        "alias_name_display": "ﾛﾜｲﾔﾙｽﾀｲﾙND",
+        "id": "1233201",
+        "hash": "88261973e6dc33c1efcf5f13fd5024ad",
+        "profile": {
+          "height": "132",
+          "weight": "28",
+          "bust": "64",
+          "waist": "56",
+          "hip": "70"
+        },
+        "event": [
+          {
+            "event_id": 823,
+            "event_name": "第23回アイドルLIVEロワイヤル"
+          }
+        ]
+      },
+      {
+        "alias_name": "ロワイヤルスタイルND",
+        "alias_name_display": "ﾛﾜｲﾔﾙｽﾀｲﾙND",
+        "id": "1333202",
+        "hash": "2ce3a5f3b4995d42f6e8e0687b189e11",
+        "profile": {
+          "height": "132",
+          "weight": "28",
+          "bust": "64",
+          "waist": "56",
+          "hip": "70"
+        },
+        "event": [
+          {
+            "event_id": 823,
+            "event_name": "第23回アイドルLIVEロワイヤル"
+          }
+        ]
+      },
+      {
         "alias_name": "リトルプリンセス",
         "alias_name_display": "ﾘﾄﾙﾌﾟﾘﾝｾｽ",
         "id": "1404701",
@@ -27888,6 +27926,44 @@
           {
             "event_id": 812,
             "event_name": "第12回アイドルLIVEロワイヤル"
+          }
+        ]
+      },
+      {
+        "alias_name": "アモラス・ロワイヤル",
+        "alias_name_display": "ｱﾓﾗｽ･ﾛﾜｲﾔﾙ",
+        "id": "2439901",
+        "hash": "48699172a15eb286179eb1b4daa8c46f",
+        "profile": {
+          "height": "167",
+          "weight": "51",
+          "bust": "91",
+          "waist": "62",
+          "hip": "90"
+        },
+        "event": [
+          {
+            "event_id": 823,
+            "event_name": "第23回アイドルLIVEロワイヤル"
+          }
+        ]
+      },
+      {
+        "alias_name": "アモラス・ロワイヤル",
+        "alias_name_display": "ｱﾓﾗｽ･ﾛﾜｲﾔﾙ",
+        "id": "2539902",
+        "hash": "79b7221bfb5db0a94baf512abe1eb5eb",
+        "profile": {
+          "height": "167",
+          "weight": "51",
+          "bust": "91",
+          "waist": "62",
+          "hip": "90"
+        },
+        "event": [
+          {
+            "event_id": 823,
+            "event_name": "第23回アイドルLIVEロワイヤル"
           }
         ]
       }
@@ -73739,6 +73815,44 @@
           {
             "event_id": 523,
             "event_name": "鋼鉄公演 きらりんロボ -襲来!コスメティア帝国-"
+          }
+        ]
+      },
+      {
+        "alias_name": "プリティブロンド",
+        "alias_name_display": "ﾌﾟﾘﾃｨﾌﾞﾛﾝﾄﾞ",
+        "id": "3440001",
+        "hash": "571191f721985c5482bbb81971f25b98",
+        "profile": {
+          "height": "152",
+          "weight": "41",
+          "bust": "71",
+          "waist": "59",
+          "hip": "73"
+        },
+        "event": [
+          {
+            "event_id": 823,
+            "event_name": "第23回アイドルLIVEロワイヤル"
+          }
+        ]
+      },
+      {
+        "alias_name": "プリティブロンド",
+        "alias_name_display": "ﾌﾟﾘﾃｨﾌﾞﾛﾝﾄﾞ",
+        "id": "3540002",
+        "hash": "cda5c513974a4e22bdafa7fb7e662c56",
+        "profile": {
+          "height": "152",
+          "weight": "41",
+          "bust": "71",
+          "waist": "59",
+          "hip": "73"
+        },
+        "event": [
+          {
+            "event_id": 823,
+            "event_name": "第23回アイドルLIVEロワイヤル"
           }
         ]
       }
