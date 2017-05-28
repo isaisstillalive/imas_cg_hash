@@ -9929,6 +9929,44 @@
             "event_name": "第14回アイドルLIVEロワイヤル"
           }
         ]
+      },
+      {
+        "alias_name": "焼きたてハピネス",
+        "alias_name_display": "焼きたてﾊﾋﾟﾈｽ",
+        "id": "1440101",
+        "hash": "ebf9935d9b73a4244db58227f97d8d2b",
+        "profile": {
+          "height": "153",
+          "weight": "40",
+          "bust": "78",
+          "waist": "55",
+          "hip": "80"
+        },
+        "event": [
+          {
+            "event_id": 1216,
+            "event_name": "先生と一緒に♪目指せおいしいパン作り アイドルチャレンジ"
+          }
+        ]
+      },
+      {
+        "alias_name": "焼きたてハピネス",
+        "alias_name_display": "焼きたてﾊﾋﾟﾈｽ",
+        "id": "1540102",
+        "hash": "6982bf46c7bfa21df65e8b12044e9555",
+        "profile": {
+          "height": "153",
+          "weight": "40",
+          "bust": "78",
+          "waist": "55",
+          "hip": "80"
+        },
+        "event": [
+          {
+            "event_id": 1216,
+            "event_name": "先生と一緒に♪目指せおいしいパン作り アイドルチャレンジ"
+          }
+        ]
       }
     ]
   },
@@ -40946,6 +40984,22 @@
         ]
       },
       {
+        "alias_name": "ベーカリーI.C",
+        "alias_name_display": "ﾍﾞｰｶﾘｰI.C",
+        "id": "2332102",
+        "hash": "acfd757cd1d818e44a257bab42cbc34f",
+        "profile": {
+          "height": "161",
+          "weight": "46",
+          "bust": "85",
+          "waist": "57",
+          "hip": "84"
+        },
+        "event": [
+
+        ]
+      },
+      {
         "alias_name": "ピュアハート",
         "alias_name_display": "ﾋﾟｭｱﾊｰﾄ",
         "id": "2401001",
@@ -41127,6 +41181,76 @@
             "event_id": 1404,
             "event_name": "第4回ぷちデレラコレクション"
           }
+        ]
+      },
+      {
+        "alias_name": "慕われベーカー",
+        "alias_name_display": "慕われﾍﾞｰｶｰ",
+        "id": "2440001",
+        "hash": "de632bfbfe98d8ca7dff701c187659b9",
+        "profile": {
+          "height": "161",
+          "weight": "46",
+          "bust": "85",
+          "waist": "57",
+          "hip": "84"
+        },
+        "event": [
+          {
+            "event_id": 1216,
+            "event_name": "先生と一緒に♪目指せおいしいパン作り アイドルチャレンジ"
+          }
+        ]
+      },
+      {
+        "alias_name": "慕われベーカー",
+        "alias_name_display": "慕われﾍﾞｰｶｰ",
+        "id": "2540002",
+        "hash": "6e75966bbcafc0541424c8d8f7b4fcd6",
+        "profile": {
+          "height": "161",
+          "weight": "46",
+          "bust": "85",
+          "waist": "57",
+          "hip": "84"
+        },
+        "event": [
+          {
+            "event_id": 1216,
+            "event_name": "先生と一緒に♪目指せおいしいパン作り アイドルチャレンジ"
+          }
+        ]
+      },
+      {
+        "alias_name": "ほほえみベーカー",
+        "alias_name_display": "ほほえみﾍﾞｰｶｰ",
+        "id": "2440101",
+        "hash": "b5e8d9784a291c73d1d7dedf4596a79c",
+        "profile": {
+          "height": "161",
+          "weight": "46",
+          "bust": "85",
+          "waist": "57",
+          "hip": "84"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "ほほえみベーカー",
+        "alias_name_display": "ほほえみﾍﾞｰｶｰ",
+        "id": "2540102",
+        "hash": "2c7b6d96a1fb1e0ca98ca465fa67c848",
+        "profile": {
+          "height": "161",
+          "weight": "46",
+          "bust": "85",
+          "waist": "57",
+          "hip": "84"
+        },
+        "event": [
+
         ]
       }
     ]
@@ -75171,6 +75295,22 @@
         ]
       },
       {
+        "alias_name": "ベーカリーI.C",
+        "alias_name_display": "ﾍﾞｰｶﾘｰI.C",
+        "id": "3334302",
+        "hash": "42ca5290aba119f9e690b169d75aedd8",
+        "profile": {
+          "height": "168",
+          "weight": "49",
+          "bust": "83",
+          "waist": "56",
+          "hip": "85"
+        },
+        "event": [
+
+        ]
+      },
+      {
         "alias_name": "スペーススター",
         "alias_name_display": "ｽﾍﾟｰｽｽﾀｰ",
         "id": "3409601",
@@ -75282,6 +75422,76 @@
             "event_id": 1405,
             "event_name": "第5回ぷちデレラコレクション"
           }
+        ]
+      },
+      {
+        "alias_name": "ジョイフルベーカー",
+        "alias_name_display": "ｼﾞｮｲﾌﾙﾍﾞｰｶｰ",
+        "id": "3440201",
+        "hash": "1770ac1f502f862edc4e9d03bc2f26ea",
+        "profile": {
+          "height": "168",
+          "weight": "49",
+          "bust": "83",
+          "waist": "56",
+          "hip": "85"
+        },
+        "event": [
+          {
+            "event_id": 1216,
+            "event_name": "先生と一緒に♪目指せおいしいパン作り アイドルチャレンジ"
+          }
+        ]
+      },
+      {
+        "alias_name": "ジョイフルベーカー",
+        "alias_name_display": "ｼﾞｮｲﾌﾙﾍﾞｰｶｰ",
+        "id": "3540202",
+        "hash": "0851d1fa2ae859921bc702b404c67de7",
+        "profile": {
+          "height": "168",
+          "weight": "49",
+          "bust": "83",
+          "waist": "56",
+          "hip": "85"
+        },
+        "event": [
+          {
+            "event_id": 1216,
+            "event_name": "先生と一緒に♪目指せおいしいパン作り アイドルチャレンジ"
+          }
+        ]
+      },
+      {
+        "alias_name": "にっこりベーカー",
+        "alias_name_display": "にっこりﾍﾞｰｶｰ",
+        "id": "3440301",
+        "hash": "786235d566b59592b81ca34c53c5668b",
+        "profile": {
+          "height": "168",
+          "weight": "49",
+          "bust": "83",
+          "waist": "56",
+          "hip": "85"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "にっこりベーカー",
+        "alias_name_display": "にっこりﾍﾞｰｶｰ",
+        "id": "3540302",
+        "hash": "7257d04c6b64058492bc0279c5b1da20",
+        "profile": {
+          "height": "168",
+          "weight": "49",
+          "bust": "83",
+          "waist": "56",
+          "hip": "85"
+        },
+        "event": [
+
         ]
       }
     ]
