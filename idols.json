@@ -6369,6 +6369,38 @@
         ]
       },
       {
+        "alias_name": "キラキラリコメンド",
+        "alias_name_display": "ｷﾗｷﾗﾘｺﾒﾝﾄﾞ",
+        "id": "1233401",
+        "hash": "a56a124013e06a0399fd43f5612bae90",
+        "profile": {
+          "height": "144",
+          "weight": "33",
+          "bust": "75",
+          "waist": "54",
+          "hip": "77"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "キラキラリコメンド",
+        "alias_name_display": "ｷﾗｷﾗﾘｺﾒﾝﾄﾞ",
+        "id": "1333402",
+        "hash": "face73d591e33ea649dfb00040334ed8",
+        "profile": {
+          "height": "144",
+          "weight": "33",
+          "bust": "75",
+          "waist": "54",
+          "hip": "77"
+        },
+        "event": [
+
+        ]
+      },
+      {
         "alias_name": "夏色ガール",
         "alias_name_display": "夏色ｶﾞｰﾙ",
         "id": "1408401",
