@@ -40754,6 +40754,38 @@
         ]
       },
       {
+        "alias_name": "オーシャンズギフト",
+        "alias_name_display": "ｵｰｼｬﾝｽﾞｷﾞﾌﾄ",
+        "id": "2232201",
+        "hash": "2f1fec2362b65429cfbdbfa86c0e4fc6",
+        "profile": {
+          "height": "165",
+          "weight": "48",
+          "bust": "85",
+          "waist": "58",
+          "hip": "83"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "オーシャンズギフト",
+        "alias_name_display": "ｵｰｼｬﾝｽﾞｷﾞﾌﾄ",
+        "id": "2332202",
+        "hash": "d645469362599b364cefb3ec192bc716",
+        "profile": {
+          "height": "165",
+          "weight": "48",
+          "bust": "85",
+          "waist": "58",
+          "hip": "83"
+        },
+        "event": [
+
+        ]
+      },
+      {
         "alias_name": "白波の歌姫",
         "alias_name_display": "白波の歌姫",
         "id": "2407601",
@@ -55105,6 +55137,38 @@
             "event_id": 1803,
             "event_name": "アイドルバラエティ　大空への挑戦 ~Fly me to the Sky~"
           }
+        ]
+      },
+      {
+        "alias_name": "心吹き抜ける風",
+        "alias_name_display": "心吹き抜ける風",
+        "id": "3440501",
+        "hash": "478e26b19bf1a88474dc0ffb92717954",
+        "profile": {
+          "height": "161",
+          "weight": "44",
+          "bust": "81",
+          "waist": "56",
+          "hip": "81"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "心吹き抜ける風",
+        "alias_name_display": "心吹き抜ける風",
+        "id": "3540502",
+        "hash": "e23409154c61e745d3e92fe075d8d7e8",
+        "profile": {
+          "height": "161",
+          "weight": "44",
+          "bust": "81",
+          "waist": "56",
+          "hip": "81"
+        },
+        "event": [
+
         ]
       }
     ]
