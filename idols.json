@@ -11951,6 +11951,38 @@
         ]
       },
       {
+        "alias_name": "カラフルリフレッシュ",
+        "alias_name_display": "ｶﾗﾌﾙﾘﾌﾚｯｼｭ",
+        "id": "1233301",
+        "hash": "25ed69d5934054eb837213ce9373c0c3",
+        "profile": {
+          "height": "156",
+          "weight": "43",
+          "bust": "83",
+          "waist": "58",
+          "hip": "86"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "カラフルリフレッシュ",
+        "alias_name_display": "ｶﾗﾌﾙﾘﾌﾚｯｼｭ",
+        "id": "1333302",
+        "hash": "d5ee7f424c9e5017b44623633cf2a1a1",
+        "profile": {
+          "height": "156",
+          "weight": "43",
+          "bust": "83",
+          "waist": "58",
+          "hip": "86"
+        },
+        "event": [
+
+        ]
+      },
+      {
         "alias_name": "ロワイヤルハート",
         "alias_name_display": "ﾛﾜｲﾔﾙﾊｰﾄ",
         "id": "1411001",
@@ -33330,6 +33362,38 @@
             "event_id": 1208,
             "event_name": "目指せサンタクロース アイドルチャレンジ"
           }
+        ]
+      },
+      {
+        "alias_name": "ワイルドドライブ",
+        "alias_name_display": "ﾜｲﾙﾄﾞﾄﾞﾗｲﾌﾞ",
+        "id": "2440201",
+        "hash": "31fad952a03ad277fa0e3d059b759afb",
+        "profile": {
+          "height": "172",
+          "weight": "50",
+          "bust": "88",
+          "waist": "60",
+          "hip": "89"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "ワイルドドライブ",
+        "alias_name_display": "ﾜｲﾙﾄﾞﾄﾞﾗｲﾌﾞ",
+        "id": "2540202",
+        "hash": "a53f598eea9637e74b08e76c96d18d4b",
+        "profile": {
+          "height": "172",
+          "weight": "50",
+          "bust": "88",
+          "waist": "60",
+          "hip": "89"
+        },
+        "event": [
+
         ]
       }
     ]
