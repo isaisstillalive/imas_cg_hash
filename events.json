@@ -8487,6 +8487,69 @@
       }
     ]
   },
+  "729": {
+    "event_id": 729,
+    "event_category_id": "10040",
+    "event_name": "ドリームLIVEフェスティバル ゴールデンウィークSP",
+    "idols": [
+      {
+        "idol_id": 9,
+        "idol_name": "奥山沙織",
+        "aliases": [
+          {
+            "id": "1232901",
+            "alias_name": "ポップスクリーン"
+          },
+          {
+            "id": "1332902",
+            "alias_name": "ポップスクリーン"
+          }
+        ]
+      },
+      {
+        "idol_id": 32,
+        "idol_name": "小早川紗枝",
+        "aliases": [
+          {
+            "id": "1439901",
+            "alias_name": "万代の藤波"
+          },
+          {
+            "id": "1539902",
+            "alias_name": "万代の藤波"
+          }
+        ]
+      },
+      {
+        "idol_id": 113,
+        "idol_name": "梅木音葉",
+        "aliases": [
+          {
+            "id": "2439701",
+            "alias_name": "新芽の調べ"
+          },
+          {
+            "id": "2539702",
+            "alias_name": "新芽の調べ"
+          }
+        ]
+      },
+      {
+        "idol_id": 159,
+        "idol_name": "西島櫂",
+        "aliases": [
+          {
+            "id": "3439801",
+            "alias_name": "グリルドスピリット"
+          },
+          {
+            "id": "3539802",
+            "alias_name": "グリルドスピリット"
+          }
+        ]
+      }
+    ]
+  },
   "801": {
     "event_id": 801,
     "event_category_id": "10070",
