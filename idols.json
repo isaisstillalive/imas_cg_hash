@@ -4966,6 +4966,38 @@
         "event": [
 
         ]
+      },
+      {
+        "alias_name": "つなげてドロップス",
+        "alias_name_display": "つなげてﾄﾞﾛｯﾌﾟｽ",
+        "id": "1440201",
+        "hash": "9b6f3d979994b95c68ec9a6057ff9681",
+        "profile": {
+          "height": "155",
+          "weight": "42",
+          "bust": "82",
+          "waist": "59",
+          "hip": "86"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "つなげてドロップス",
+        "alias_name_display": "つなげてﾄﾞﾛｯﾌﾟｽ",
+        "id": "1540202",
+        "hash": "6c7bab6998ae7b616fc1598308ba201b",
+        "profile": {
+          "height": "155",
+          "weight": "42",
+          "bust": "82",
+          "waist": "59",
+          "hip": "86"
+        },
+        "event": [
+
+        ]
       }
     ]
   },
@@ -59535,6 +59567,38 @@
         "alias_name_display": "ﾎｰﾘｰｺｰﾗｽ",
         "id": "3331702",
         "hash": "d0d0373d0b07622c508aa5eeee1cc1f4",
+        "profile": {
+          "height": "156",
+          "weight": "42",
+          "bust": "76",
+          "waist": "55",
+          "hip": "79"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "ジ・アース",
+        "alias_name_display": "ｼﾞ･ｱｰｽ",
+        "id": "3234401",
+        "hash": "c8bd49d003289cdd8def158eb3588760",
+        "profile": {
+          "height": "156",
+          "weight": "42",
+          "bust": "76",
+          "waist": "55",
+          "hip": "79"
+        },
+        "event": [
+
+        ]
+      },
+      {
+        "alias_name": "ジ・アース",
+        "alias_name_display": "ｼﾞ･ｱｰｽ",
+        "id": "3334402",
+        "hash": "6f796b27b0eab4db53272233989c4a30",
         "profile": {
           "height": "156",
           "weight": "42",
